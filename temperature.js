@@ -129,7 +129,7 @@ const url = 'https://tomorrow-io1.p.rapidapi.com/v4/weather/forecast?timesteps=1
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'a4687b66d7msh16cfc3bf35cdcbap1aa6efjsn60f697a550ef',
+		'X-RapidAPI-Key': HIDDEN,
 		'X-RapidAPI-Host': 'tomorrow-io1.p.rapidapi.com'
 	}
 };
