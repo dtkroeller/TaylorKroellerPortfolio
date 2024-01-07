@@ -46,7 +46,7 @@ header nav a:hover {
 .parallaxTaylor {
 
     /* The image used */
-    background-image: url('/portfolioPage/resources/images/TK.jpeg');
+    background-image: url('./images/TK.jpeg');
 
     /* Set a specific height */
     min-height: 100vh; 
